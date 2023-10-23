@@ -3,9 +3,10 @@
 I'm a CS enthusiast from Anaheim, CA, currently pursuing my Bachelor's degree from California State University, Fullerton. 
 When I'm not diving deep into algorithms or coding up projects, you might find me exploring new tech trends or collaborating with fellow developers.
 
-📧 Got a question or just want to say hi? Drop me a line at belalaskaik@gmail.com
-🌐 [Check out my pinned projects](https://github.com/belalaskaik)
+📧 Got a question or just want to say hi? Drop me a line at belalaskaik@gmail.com  
+🌐 [Check out my pinned projects](https://github.com/belalaskaik)  
 💼 [Let's connect on LinkedIn](https://www.linkedin.com/in/Belal-skaik/)
+
 
 ## 🚀 What I'm up to:
 
