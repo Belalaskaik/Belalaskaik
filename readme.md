@@ -11,7 +11,7 @@ When I'm not diving deep into algorithms or coding up projects, you might find m
 ## 🚀 What I'm up to:
 
 - **Exploring Algorithmic Trading**: Recently worked on [TRADEX](https://github.com/Belalaskaik/TradeX), where I led a team to implement trading strategies using Python.
-- **Securing Communications**: Developed a [secure ATM-Bank communication system](https://github.com/danny-garxia/secureBank) using advanced cryptographic techniques.
+- **Securing Communications**: Developed a [secure ATM-Bank communication system](https://github.com/danny-garxia/secureBank) using DSA and RSA cryptographic algorithms.
 - **Web Development**: Crafted a user-centric survey website, [MAGIC SURVEY](https://github.com/Belalaskaik/Magic-Survey), using PHP, MySQL, and Bootstrap.
 - **Social Media Simulation (C++)**: Collaborated on a [project](https://github.com/Belalaskaik/Social-Media-Simulation) to model social networks.
 
