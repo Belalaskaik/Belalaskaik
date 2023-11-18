@@ -8,7 +8,7 @@ When I'm not diving deep into algorithms or coding up projects, you might find m
 💼 [Let's connect on LinkedIn](https://www.linkedin.com/in/Belal-skaik/)
 
 
-## 🚀 What I'm up to:
+## 🚀 What I've been up to:
 
 - **Exploring Algorithmic Trading**: Recently worked on [TRADEX](https://github.com/Belalaskaik/TradeX), where I led a team to implement trading strategies using Python.
 - **Securing Communications**: Developed a [secure ATM-Bank communication system](https://github.com/danny-garxia/secureBank) by implementing DSA and RSA cryptographic algorithms.
