@@ -22,4 +22,4 @@ When I'm not diving deep into algorithms or coding up projects, you might find m
 - **Frameworks & Libraries**: Experienced with Django, Pandas, Matplotlib, and Plotly.
 - **Others**: Git enthusiast, Linux user, and always experimenting with Virtual Machines.
 
-📍 Based in: Anaheim, CA
+📍 Anaheim, CA
