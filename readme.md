@@ -9,7 +9,7 @@ When I'm not diving deep into algorithms or coding up projects, you might find m
 
 
 ## 🚀 What I've been up to:
-
+- **Machine Learning Integration**: Enhanced my understanding of the Nearest Neighbors algorithm in machine learning through the development of [WhatsNext](https://github.com/Belalaskaik/Movie-Recommender) Movie Recommender.
 - **Exploring Algorithmic Trading**: Recently worked on [TRADEX](https://github.com/Belalaskaik/TradeX), where I led a team to implement trading strategies using Python.
 - **Securing Communications**: Developed a [secure ATM-Bank communication system](https://github.com/danny-garxia/secureBank) by implementing DSA and RSA cryptographic algorithms.
 - **Web Development**: Crafted a user-centric survey website, [MAGIC SURVEY](https://github.com/Belalaskaik/Magic-Survey), using PHP, MySQL, and Bootstrap.
